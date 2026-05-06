@@ -8,8 +8,6 @@
     <li>Gosto de jogar nas horas vagas</li>
   </ul>
   <hr>
-  <h2>Linguagens:</h2>
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
   <h2>Fale comigo:<br>
 <a href="www.linkedin.com/in/joão-paulo-albano-82b1b13b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </main>
