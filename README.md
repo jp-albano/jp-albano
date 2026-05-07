@@ -9,8 +9,6 @@
 
 
 
-
-
 <main>
   <h1>Olá, sou João Paulo Albano<br></h1>
   <h2>Sobre mim</h2>
@@ -32,3 +30,4 @@
   <br>
 <a href="www.linkedin.com/in/joão-paulo-albano-82b1b13b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </main>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jp-albano&theme=tokyonight" alt="mystreak"/>
