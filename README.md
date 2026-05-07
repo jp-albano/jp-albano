@@ -8,12 +8,14 @@
 
 
 
-
 <main>
   <h1>Olá, sou João Paulo Albano<br></h1>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=jp-albano&color=brightgreen" alt="watching_count" />
+    <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djp-albano&longCache=true"/>
+  </div>
   <h2>Sobre mim</h2>
-  Gosto de jogos, filmes, programação, e aprender coisas novas
-  <hr>
+  Gosto de jogos, filmes, programação, desenvolver projetos e aprender coisas novas.
   <ul>
     <li>Tenho 19 anos</li>
     <li>Ciência da Computação / UniFil</li>
@@ -21,13 +23,20 @@
     <li>Londrina, Paraná</li>
   </ul>
   <hr>
-  <h2>🔥Linguagens</h2>
-    <ul>
-      <li>Java</li>
-      <li>Python</li>
-      <li>Arduino IDE</li>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jp-albano&theme=tokyonight" alt="mystreak" />
+  </div>
+  <hr>
+</main>
+
+<main>
+  <h2>🔥Linguagens:</h2>
+  <ul>
+    <li>Python</li>
+    <li>Java</li>
+  </ul>
   <h2>Fale comigo:
   <br>
-<a href="www.linkedin.com/in/joão-paulo-albano-82b1b13b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/joão-paulo-albano-82b1b13b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 </main>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jp-albano&theme=tokyonight" alt="mystreak"/>
