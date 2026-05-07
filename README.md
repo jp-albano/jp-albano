@@ -18,12 +18,12 @@
   <hr>
   <ul>
     <li>Tenho 19 anos</li>
-    <li>Cursando Ciência da Computação na UniFil</li>
+    <li>Ciência da Computação / UniFil</li>
     <li>Gosto de jogar nas horas vagas</li>
     <li>Londrina, Paraná</li>
   </ul>
   <hr>
-  <h2>Linguagens</h2>
+  <h2>🔥Linguagens</h2>
     <ul>
       <li>Java</li>
       <li>Python</li>
