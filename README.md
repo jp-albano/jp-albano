@@ -10,10 +10,6 @@
 
 <main>
   <h1>Olá, sou João Paulo Albano<br></h1>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=jp-albano&color=brightgreen" alt="watching_count" />
-    <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djp-albano&longCache=true"/>
-  </div>
   <h2>Sobre mim</h2>
   Gosto de jogos, filmes, programação, desenvolver projetos e aprender coisas novas.
   <ul>
